@@ -1,10 +1,10 @@
-# 🚀 Personal Homelab & DevOps Infrastructure
+# 🚀 Prywanty Homelab Proxmox + Docker
 
 ## 📌 O projekcie
 Domowe laboratorium zbudowane w celu nauki technologii **Cloud Computing**, **DevOps** oraz **Sieci komputerowych**. Projekt symuluje rzeczywiste środowisko produkcyjne z naciskiem na segmentację sieci, bezpieczeństwo i konteneryzację (Infrastructure as Code).
 
 ## 🏗 Architektura Sieciowa i Aplikacyjna
-![Schemat Architektury](architecture.png)
+![Schemat Architektury](homelab-schemat.png)
 
 ## 🛠 Tech Stack
 * **Wirtualizacja:** Proxmox VE
