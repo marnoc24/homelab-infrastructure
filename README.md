@@ -1,1 +1,2 @@
-# Mój Homelab DevOps. Infrastruktura oparta na Dockerze i OPNsense.
+## 🏗 Architektura Sieciowa i Aplikacyjna
+![Schemat Architektury](homelab-schemat.png)
