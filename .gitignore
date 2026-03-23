@@ -1,0 +1,7 @@
+# Ignoruj pliki ze zmiennymi środowiskowymi (hasła)
+.env
+
+# Ignoruj dane aplikacji i konfiguracje
+*/data/
+*/config/
+*/db/
